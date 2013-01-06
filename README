@@ -1,0 +1,12 @@
+SocioMeet , is a metting support application for only personal use.
+
+It provides various functionalities like
+1.  Set the meeting venue using google maps
+2.  Let users accept and reject the invitations by sending sms to an inbound number
+3.  A simple application if installed on a GPS enabled phone , wil also let the user keep notified about where on the globe is the person and how much time will it take for him to reach the venue of a meeting that he was invited to
+4.  Get directions for users from  their current point to the venue through sms
+
+Innovation
+1.  Using GPS location and informing the invitees on the right time acout the meeting and the directions being sent to their phones
+2.  A desktop client which can be used on any operating system
+
